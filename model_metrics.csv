@@ -1,0 +1,4 @@
+model,evaluation_sample,n_evaluated,n_capped_test,MSE,R_squared
+Baseline,Entire test set,4128,179,0.5558915986952442,0.575787706032451
+Baseline,Uncapped test homes only,3949,179,0.4375987227642856,0.5436237290894745
+Cleaned,Uncapped test homes only,3949,179,0.4265316888737543,0.5551656541323445
